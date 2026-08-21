@@ -1,3 +1,13 @@
+> ## 🗄️ Archivado / Archived
+>
+> **ES —** Este repositorio está **archivado desde el 21 de agosto de 2026** (America/Monterrey).
+> Es de sólo lectura y ya no recibe mantenimiento. Reemplazado por: https://github.com/FriskyDevelopments/codespaces-project-template-js (duplicado exacto de este repositorio).
+>
+> **EN —** This repository has been **archived as of August 21, 2026** (America/Monterrey).
+> It is read-only and no longer maintained. Superseded by: https://github.com/FriskyDevelopments/codespaces-project-template-js (this repository was an exact duplicate).
+
+---
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
